@@ -7,7 +7,7 @@
   },
   {
     "date": 2,
-    "todos": [],
+    "todos": ["영화 관람"],
     "isSat": true,
     "isHoliday": false
   },
